@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 76">
+  <g transform="translate(4,8)">
+    <!-- Upper chevron (Slate accent) -->
+    <polygon points="34,2 4,50 18,50 34,24 44,40 52,32" fill="#687390"/>
+    <!-- Lower interlocking chevron (Deep ink) -->
+    <polygon points="38,16 58,56 12,56 20,46 42,46 34,30" fill="#1B2130"/>
+  </g>
+  <text x="78" y="54" font-family="Montserrat, sans-serif" font-weight="700" font-size="40" letter-spacing="4.5" fill="#1B2130">SPORTLAND</text>
+</svg>
